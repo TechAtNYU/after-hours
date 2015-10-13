@@ -32,3 +32,22 @@ This is an iterative process. Any recommendations you may have (after running on
 We used to order from Pizza Mercato under Bob's tenure, but it was expensive. Other ideas such as polling for food before After Hours were time-consuming and cost prohibitive.
 
 We are working to get more funds through Collab Fund since we now co-sponsor with ACM. Once this happens, we can revise our food policy.
+
+### Meeting People - The Brenton Method
+
+The Brenton Method (TM) is a way of meeting people and fostering relationships designed for the social inadept and introverted members of our community. The Brenton Method is a three step approach.
+
+1. Meet someone
+    - learn their name and at least two things about them 
+    - talk about yourself a little to ease any tension
+2. Get someone else attached to your conversational unit
+    - ask someone standing nearby what their name is, attracting them to the unit
+    - find someone and bring them to the unit
+    - in times of peril, find another eboard member and have them strengthen the unit
+3. Introduce personB to personA
+    - it can be as simple as sharing their names
+    - sometimes you have to help them and ask some vague group-y questions to get the conversation to flow
+    - don't talk about yourself any more unless they ask you something
+
+If everything is done correctly, you should have done a minimal amount of talking but now have two strangers who know each other at least enough to point them out in a crowd.
+
