@@ -2,7 +2,7 @@
 
 Congratulations! You're running After Hours today. Thank you so much!
 
-After Hours is our flagship event. It's where the community comes together, every week, to learn and meet each other. After Hours is a low-pressure and safe environment. As hosts for this week, your responsibilities are:
+After Hours is our flagship event. It's where the community comes together, every week, to learn from and meet each other. After Hours is a low-pressure and safe environment. As hosts for this week, your responsibilities are:
 
 1. Foster community and friendships amongst attendees
 2. Make sure tech@NYU questions are answered and people feel good
