@@ -6,13 +6,13 @@ After Hours is 6-8pm, but informally runs until 10pm most nights. If you cannot 
 
 ## October 2015
 
-#### 7th :information_desk_person:
+#### 7th :information_desk_person: - After Hours #1
 
 - `Cheryl` :sparkles:
 - `Brenton` :sparkles:
 - `Abhinav` :sparkles:
 
-#### 14th :information_desk_person:
+#### 14th :information_desk_person: - After Hours #2
 
 - `Pauline` :sparkles:
 - `Rosa` :sparkles:
@@ -21,7 +21,7 @@ After Hours is 6-8pm, but informally runs until 10pm most nights. If you cannot 
  
 CANCELLED - CAREER FAIR
 
-#### 28th
+#### 28th - After Hours #3
 
 - Max
 - Avika
@@ -29,25 +29,25 @@ CANCELLED - CAREER FAIR
 
 ## November 2015
 
-#### 4th
+#### 4th - After Hours #4
 
 - Nic
 - Yeli
 - Kyle
 
-#### 11th
+#### 11th - After Hours #5
 
 - Jhishan
 - Katy
 - Bryant
 
-#### 18th
+#### 18th - After Hours #6
 
 - Kevin Dang
 - Terri
 - Roland
 
-#### 25th
+#### 25th - After Hours #7
 
 - Alan
 - Adisa
@@ -55,13 +55,13 @@ CANCELLED - CAREER FAIR
 
 ## December 2015
 
-#### 2nd
+#### 2nd - After Hours #8
 
 - David
 - Abhi
 - Freia
 
-#### 9th
+#### 9th - After Hours #9
 
 - Alice
 - Jeff
