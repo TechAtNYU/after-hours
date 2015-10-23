@@ -51,6 +51,7 @@ CANCELLED - CAREER FAIR
 
 - Alan
 - Adisa
+- Chuk
 
 ## December 2015
 
