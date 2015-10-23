@@ -12,16 +12,18 @@ After Hours is 6-8pm, but informally runs until 10pm most nights. If you cannot 
 - `Brenton` :sparkles:
 - `Abhinav` :sparkles:
 
-#### 14th
+#### 14th :information_desk_person:
 
-- Pauline
-- Rosa
+- `Pauline` :sparkles:
+- `Rosa` :sparkles:
 
 #### 21th
 
 - Nic
 - Dana
 - Kyle
+ 
+TO BE RESCHEDULED - CAREER FAIR
 
 #### 28th
 
