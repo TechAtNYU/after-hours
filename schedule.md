@@ -29,10 +29,6 @@ CANCELLED - CAREER FAIR
 
 ## November 2015
 
-- Roland
-- Freia
-- Raghav
-
 #### 4th
 
 - Nic
@@ -49,6 +45,7 @@ CANCELLED - CAREER FAIR
 
 - Kevin Dang
 - Terri
+- Roland
 
 #### 25th
 
@@ -61,11 +58,13 @@ CANCELLED - CAREER FAIR
 
 - David
 - Abhi
+- Freia
 
 #### 9th
 
 - Alice
 - Jeff
+- Raghav
 
 ----
 
