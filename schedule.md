@@ -18,18 +18,14 @@ After Hours is 6-8pm, but informally runs until 10pm most nights. If you cannot 
 - `Rosa` :sparkles:
 
 #### 21th
-
-- Nic
-- Dana
-- Kyle
  
-TO BE RESCHEDULED - CAREER FAIR
+CANCELLED - CAREER FAIR
 
 #### 28th
 
 - Max
 - Avika
-- Jordan
+- Dana
 
 ## November 2015
 
@@ -39,13 +35,15 @@ TO BE RESCHEDULED - CAREER FAIR
 
 #### 4th
 
-- Bryant
+- Nic
 - Yeli
+- Kyle
 
 #### 11th
 
 - Jhishan
 - Katy
+- Bryant
 
 #### 18th
 
@@ -75,3 +73,4 @@ TO BE RESCHEDULED - CAREER FAIR
 
 - Kevin C.
 - Julie
+- Jordan
